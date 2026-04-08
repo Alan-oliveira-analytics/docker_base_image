@@ -12,4 +12,4 @@ docker build -t minha-base-python .
 
 ## Uso
 
-FROM minha-base-python
+FROM minha-base-python:1.0
